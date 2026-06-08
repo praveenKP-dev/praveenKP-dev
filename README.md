@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Praveen%20K%20P&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Praveen%20K%20P&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <br/>
@@ -107,5 +107,5 @@ I'm a **Full Stack Developer** and **ML Engineer** currently pursuing my **MSc i
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
 </div>
