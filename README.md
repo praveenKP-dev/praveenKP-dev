@@ -98,10 +98,26 @@ I'm a **Full Stack Developer** and **ML Engineer** currently pursuing my **MSc i
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/praveenKP-dev/praveenKP-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=praveenKP-dev&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 </div>
 
 <br/>
