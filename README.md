@@ -75,13 +75,17 @@ I'm a **Full Stack Developer** and **ML Engineer** currently pursuing my **MSc i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenKP-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenKP-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenKP-dev&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenKP-dev&theme=tokyonight&hide_border=true&layout=donut&count_private=true&langs_count=8" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=praveenKP-dev&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=praveenKP-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenKP-dev&theme=tokyonight" width="100%"/>
 </div>
 
 ---
